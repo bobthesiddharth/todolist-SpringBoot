@@ -14,7 +14,10 @@
 ---
 
 ## 📽️ Live Demo / Preview
-![Uploading Screenshot 2025-05-07 at 10.28.50 AM.png…]()
+
+![Screenshot 2025-05-07 at 10 28 50 AM](https://github.com/user-attachments/assets/65581a44-9fcd-4e31-bc2c-0e74d8f9eba1)
+
+
 
 ![Screenshot 2025-05-07 at 10 33 14 AM](https://github.com/user-attachments/assets/4ad00106-7cd3-4a7a-84e4-2f65975f0b53)
 
