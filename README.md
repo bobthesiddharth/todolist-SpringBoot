@@ -1,14 +1,3 @@
-To make your GitHub README.md more visually attractive, while staying within what Markdown allows (since GitHub doesn’t support JavaScript or CSS animations directly), I can:
-	•	Add emojis for visual appeal.
-	•	Use badges for tech stacks and tools.
-	•	Add GIFs or screenshots to simulate animation or UI previews.
-	•	Organize content in neat sections with emojis and markdown formatting.
-
-Here’s your enhanced and visually appealing README.md:
-
-⸻
-
-
 # ✨ To-Do List Application — Bobabytes
 
 > 📅 A cloud-ready, RESTful **To-Do List App** that simplifies task tracking using **Spring Boot**, **Hibernate**, and **AWS Cloud**.  
@@ -25,10 +14,9 @@ Here’s your enhanced and visually appealing README.md:
 ---
 
 ## 📽️ Live Demo / Preview
+![Uploading Screenshot 2025-05-07 at 10.28.50 AM.png…]()
 
-> *(Optional)* You can add a preview GIF of the UI or API response here!
-
-![App Preview](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHA0bDI5N3R3cnhrZXgwcHBmY3A1MW5yd2U3azF6dWh1dGt3NXY4OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif)
+![Screenshot 2025-05-07 at 10 33 14 AM](https://github.com/user-attachments/assets/4ad00106-7cd3-4a7a-84e4-2f65975f0b53)
 
 ---
 
@@ -112,15 +100,3 @@ This project is open-source and available under the MIT License.
 🙌 Let’s Connect!
 
 Developed with ❤️ by Siddharth Nayak
-
-
-⸻
-
-
----
-
-### 🔧 Additional Suggestions:
-- Add a **real UI screenshot or GIF** of the API working or client front-end if applicable.
-- If you have **Swagger Docs** or **Postman**, add them in a `docs/` folder and link it.
-
-Would you like me to generate a GIF from a UI or terminal demo for you?
